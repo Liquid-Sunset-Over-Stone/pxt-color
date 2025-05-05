@@ -254,6 +254,7 @@ namespace color {
         FFFFFF
     `);
     export const vapor = bufferToPalette(hex`
+    000000
      FFFFFF
 FB325A
 F35644
@@ -270,8 +271,10 @@ ECC5DA
 EC9DBF
 02091C
 
+
     `);
     export const darkSynth = bufferToPalette(hex`
+    000000
         09076E
         FFFFFF
         2A5BBB
