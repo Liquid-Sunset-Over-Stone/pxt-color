@@ -264,7 +264,7 @@ namespace color {
         39ACF3
         2F56F4
         E44999
-        #F35ED3
+        F35ED3
         B292E
         ECC5DA
         EC9DBF
