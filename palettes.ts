@@ -253,4 +253,40 @@ namespace color {
         FFFFFF
         FFFFFF
     `);
+    export const vapor = bufferToPalette(hex`
+        FFFFFF
+        FB325A
+        F35644
+        F7963B
+        FFEE2E
+        30F3A5
+        40F76B
+        39ACF3
+        2F56F4
+        E44999
+        #F35ED3
+        B292E
+        ECC5DA
+        EC9DBF
+        02091C
+        000000
+    `);
+    export const darkSynth = bufferToPalette(hex`
+        09076E
+        FFFFFF
+        2A5BBB
+        3F94D5
+        F54DB7
+        F330BF
+        C640F7
+        39ACF3
+        2F56F4
+        E44999
+        F35ED3
+        2B292E
+        ECC5DA
+        EC9DBF
+        02091C
+
+    `);
 } 
