@@ -270,7 +270,7 @@ F35ED3
 ECC5DA
 EC9DBF
 02091C
-
+000000
 
     `);
     export const darkSynth = bufferToPalette(hex`
