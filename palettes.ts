@@ -274,7 +274,6 @@ EC9DBF
 
     `);
     export const darkSynth = bufferToPalette(hex`
-    000000
         09076E
         FFFFFF
         2A5BBB
