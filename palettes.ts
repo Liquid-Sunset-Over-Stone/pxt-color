@@ -253,6 +253,7 @@ namespace color {
         FFFFFF
         FFFFFF
     `);
+    //% fixedInstance whenUsed block="vapor"
     export const Vapor = bufferToPalette(hex`
     000000
      FFFFFF
@@ -273,6 +274,7 @@ EC9DBF
 000000
 
     `);
+    //% fixedInstance whenUsed block="darksynth"
     export const DarkSynth = bufferToPalette(hex`
         09076E
         FFFFFF
